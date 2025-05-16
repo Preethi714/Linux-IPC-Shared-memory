@@ -21,7 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## Write a C program that illustrates two processes communicating using shared memory.
-```
+
 ```
 #include <stdio.h>
 #include <sys/ipc.h>
@@ -53,6 +53,7 @@ int main()
 
 
 ## OUTPUT
+
 ![Screenshot 2025-05-16 205749](https://github.com/user-attachments/assets/0ee1260f-65ee-4039-94f3-196ce4dc3030)
 
 
